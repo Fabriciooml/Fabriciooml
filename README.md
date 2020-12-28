@@ -1,5 +1,5 @@
-<!--- ![profile](https://github.com/Fabriciooml/Fabriciooml/github-profile.png) 
---- --->
+![profile](https://github.com/Fabriciooml/Fabriciooml/blob/main/github-profile.png) 
+--- 
 <center>
   <table>
     <tr>
@@ -8,6 +8,9 @@
     </tr>
   </table>
 </center>
+
+----
+
 About me:
 
 :computer: I'm an IT student from Juiz de Fora - Minas Gerais - Brazil
