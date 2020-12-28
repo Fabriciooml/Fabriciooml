@@ -9,8 +9,11 @@
   </table>
 </center>
 About me:
+
 :computer: I'm an IT student from Juiz de Fora - Minas Gerais - Brazil
+
 :purple_heart: A guy in love with AI, Data Science, Machine Learning, Python and coding random stuff
+
 :blue_heart: A huge Doctor Who, Sherlock Holmes, Star Wars and video games fan :space_invader:
 
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/fabriciooml)
