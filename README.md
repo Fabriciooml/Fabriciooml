@@ -3,8 +3,8 @@
 <center>
   <table>
     <tr>
-      <td><img width="400px" src=https://github-readme-stats.vercel.app/api?username=Fabriciooml&theme=material-palenight/></td>
-      <td><img width="400px" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&hide=javascript,html,css&layout=compact&theme=material-palenight/></td>
+      <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=Fabriciooml&theme=material-palenight"/></td>
+      <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&hide=javascript,html,css&layout=compact&theme=material-palenight"/></td>
     </tr>
   </table>
 </center>
