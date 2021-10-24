@@ -1,14 +1,11 @@
-![profile](https://github.com/Fabriciooml/Fabriciooml/blob/main/github-profile.png) 
---- 
-<center>
-  <table>
-    <tr>
-      <td><img width="400px" src="https://github-readme-stats.vercel.app/api?username=Fabriciooml&theme=material-palenight"/></td>
-      <td><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&hide=javascript,html,css&layout=compact&theme=material-palenight"/></td>
-    </tr>
-  </table>
-</center>
 
+<center>
+  <img width="1000px" src="https://github.com/Fabriciooml/Fabriciooml/blob/main/github-profile.png"/>
+</center>
+<a href="#"><img width="483px" src="https://github-readme-stats.vercel.app/api?username=Fabriciooml&theme=material-palenight"/></a>
+<a href="#"><img width="479px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&hide=javascript,html,css&layout=compact&theme=material-palenight"/></a>
+
+ 
 ----
 
 About me:
@@ -22,4 +19,7 @@ About me:
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/fabriciooml)
 ![](https://img.shields.io/github/followers/Fabriciooml?style=social)
 
-![Snake animation](https://github.com/Fabriciooml/Fabriciooml/blob/output/github-contribution-grid-snake.svg)
+----
+<center>
+  <img width="1000px" src="https://github.com/Fabriciooml/Fabriciooml/blob/output/github-contribution-grid-snake.svg/">
+</center>
