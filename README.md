@@ -21,3 +21,5 @@ About me:
 
 [![](https://img.shields.io/badge/linkedin-blue)](https://www.linkedin.com/in/fabriciooml)
 ![](https://img.shields.io/github/followers/Fabriciooml?style=social)
+
+![Snake animation](https://github.com/Fabriciooml/Fabriciooml/blob/output/github-contribution-grid-snake.svg)
