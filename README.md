@@ -1,9 +1,9 @@
 
 <center>
-  <img width="800px" src="https://github.com/Fabriciooml/Fabriciooml/blob/main/github-profile.png"/>
+  <img width="900px" src="https://github.com/Fabriciooml/Fabriciooml/blob/main/github-profile.png"/>
 </center>
-<a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=Fabriciooml&theme=material-palenight"/></a>
-<a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&hide=javascript,html,css&layout=compact&theme=material-palenight"/></a>
+<a href="#"><img width="453px" src="https://github-readme-stats.vercel.app/api?username=Fabriciooml&theme=material-palenight"/></a>
+<a href="#"><img width="447px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&hide=javascript,html,css&layout=compact&theme=material-palenight"/></a>
 
  
 ----
