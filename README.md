@@ -3,7 +3,7 @@
   <img width="100%" src="https://github.com/Fabriciooml/Fabriciooml/blob/main/github-profile.png"/>
 </center>
 <a href="#"><img width="49.9%" src="https://github-readme-stats.vercel.app/api?username=Fabriciooml&theme=material-palenight"/></a>
-<a href="#"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&hide=javascript,html,css&layout=compact&theme=material-palenight"/></a>
+<a href="#"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&langs_count=4&hide=javascript,css,html&layout=compact&theme=material-palenight"/></a>
 
  
 ----
