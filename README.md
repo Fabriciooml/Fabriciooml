@@ -12,6 +12,8 @@ About me:
 
 :computer: I'm an IT student from Juiz de Fora - Minas Gerais - Brazil
 
+:computer: Data Engineer at [Méliuz](https://www.meliuz.com.br/inicio)
+
 :purple_heart: A guy in love with AI, Data Science, Machine Learning, Python and coding random stuff
 
 :blue_heart: A huge Doctor Who, Sherlock Holmes, Star Wars and video games fan :space_invader:
