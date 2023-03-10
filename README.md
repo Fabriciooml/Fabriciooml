@@ -2,8 +2,8 @@
 <center>
   <img width="100%" src="https://github.com/Fabriciooml/Fabriciooml/blob/main/github-profile.png"/>
 </center>
-<a href="#"><img width="49.9%" src="https://github-readme-stats.vercel.app/api?username=Fabriciooml&theme=material-palenight"/></a>
-<a href="#"><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&langs_count=4&hide=javascript,css,html&layout=compact&theme=material-palenight"/></a>
+<a href="#"><img height="145px" src="https://github-readme-stats.vercel.app/api?username=Fabriciooml&theme=material-palenight&count_private=true&hide=contribs,issues&show_icons=true&card_width=500px"/></a>
+<a href="#"><img height="145px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabriciooml&langs_count=4&hide=javascript,css,html&layout=compact&theme=material-palenight&card_width=500px"/></a>
 
  
 ----
