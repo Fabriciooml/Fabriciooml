@@ -22,6 +22,3 @@ About me:
 ![](https://img.shields.io/github/followers/Fabriciooml?style=social)
 
 ----
-<center>
-  <img width="1000px" src="https://github.com/Fabriciooml/Fabriciooml/blob/output/github-contribution-grid-snake.svg/">
-</center>
