@@ -12,9 +12,9 @@ About me:
 
 :computer: I'm an IT student from Juiz de Fora - Minas Gerais - Brazil
 
-:computer: Data Platform Engineer at [Méliuz](https://www.meliuz.com.br/inicio)
+:computer: Analytics Engineer at [Nubank](https://nubank.com.br/)
 
-:purple_heart: A guy in love with AI, Data Science, Machine Learning, Python and coding random stuff
+:purple_heart: A guy in love with Data Engineering, Data Modelling, AI, Data Science, Machine Learning, Python and coding random stuff
 
 :blue_heart: A huge Doctor Who, Sherlock Holmes, Star Wars and video games fan :space_invader:
 
